@@ -17,8 +17,8 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "vakar",
-      password: "vakar2000",
+      name: "GlaceYT",
+      password: "glaceyt",
       host: "5.39.63.207",
       port:  8262,
       secure: false
