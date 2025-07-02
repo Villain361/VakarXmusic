@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "DJing", 
+  activityName: "POLINATING VCs", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/FnVdS5bJWD",
   embedTimeout: 5, 
