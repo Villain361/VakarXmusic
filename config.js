@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "MTM3MjUwNzcwNzIwNjAxMjk3OA.Gz70Ut.0inJjMNOMgjFXMmitcS4OFtUwVFruFprlv8ge4",
+  TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://vakarXmusic:<db_password>@cluster0.mjyuv1j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
